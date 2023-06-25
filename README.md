@@ -3,7 +3,7 @@
 
 Custom data was prepared in Roboflow
 
-![image](https://github.com/jalilmm/train_yolov8_on_custom_dataset/assets/53440786/9588ec28-1d3d-4d49-a45a-a99075242692)
+![image](https://github.com/jalilmm/train_yolov8_on_custom_dataset/assets/53440786/2c3f2e51-b846-4315-aa2d-162beead6282)
 
 Model was trained Colab and deployed back to roboflow.
 
