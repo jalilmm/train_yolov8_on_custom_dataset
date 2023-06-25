@@ -9,5 +9,5 @@ Model was trained Colab and deployed back to roboflow.
 Implemented in webcam:
 
 
-https://github.com/jalilmm/train_yolov8_on_custom_dataset/assets/53440786/41aa5239-90cd-4693-8082-d7e19be7caef
 
+![ezgif com-video-to-gif(1)](https://github.com/jalilmm/train_yolov8_on_custom_dataset/assets/53440786/e4bb1ae2-a9ee-47ba-a01d-b20ef16688ef)
