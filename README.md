@@ -5,7 +5,7 @@ Custom data was prepared in Roboflow
 
 ![image](https://github.com/jalilmm/train_yolov8_on_custom_dataset/assets/53440786/2c3f2e51-b846-4315-aa2d-162beead6282)
 
-Model was trained Colab and deployed back to roboflow.
+Model was trained in Colab and deployed back to roboflow.
 
 Implemented in webcam:
 
